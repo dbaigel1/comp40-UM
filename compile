@@ -40,7 +40,7 @@ done
 
 case $link in
   all|um) gcc $FLAGS -o um um.o \
-                  loader.o memory.o execute.o \
+                  loader.o execute.o \
                   $LFLAGS $LIBS $CIILIBS 
               linked=yes ;;
 esac

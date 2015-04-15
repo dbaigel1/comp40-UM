@@ -1,11 +1,11 @@
 Benchmark   Time   Instructions   Rel to start   Rel to prev   Improvement 
 ***************************************************************************
-big                               1.0            1.0           (none)start
-small
+big         66s                    1.0            1.0           (none)start
+small       2.68s  
 ***************************************************************************
-big
-
-small
+big         51.94s                                              compile sc
+                        
+small       2.06s
 ***************************************************************************
 big
 

@@ -10,9 +10,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "loader.h"
-#include "memory.h"
 #include "execute.h"
-        
 int main(int argc, char *argv[])
 {
         (void) argc;
